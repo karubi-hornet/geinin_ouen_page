@@ -42,6 +42,7 @@ module.exports = {
       {
         title: '202208',
         children: [
+          '202208/02',
           '202208/01'
         ]
       }
